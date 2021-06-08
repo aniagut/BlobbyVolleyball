@@ -1,0 +1,75 @@
+﻿  BlobbyVolleyball.cpp
+C:\Users\PC\Documents\BlobbyVolleyball\text.cpp(17,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\text.cpp(17,36): warning C4244:         with
+C:\Users\PC\Documents\BlobbyVolleyball\text.cpp(17,36): warning C4244:         [
+C:\Users\PC\Documents\BlobbyVolleyball\text.cpp(17,36): warning C4244:             T=float
+C:\Users\PC\Documents\BlobbyVolleyball\text.cpp(17,36): warning C4244:         ]
+C:\Users\PC\Documents\BlobbyVolleyball\text.cpp(17,29): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\text.cpp(17,29): warning C4244:         with
+C:\Users\PC\Documents\BlobbyVolleyball\text.cpp(17,29): warning C4244:         [
+C:\Users\PC\Documents\BlobbyVolleyball\text.cpp(17,29): warning C4244:             T=float
+C:\Users\PC\Documents\BlobbyVolleyball\text.cpp(17,29): warning C4244:         ]
+C:\Users\PC\Documents\BlobbyVolleyball\window.cpp(9,49): warning C4244: "argument": konwersja z "float" do "T", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\window.cpp(9,49): warning C4244:         with
+C:\Users\PC\Documents\BlobbyVolleyball\window.cpp(9,49): warning C4244:         [
+C:\Users\PC\Documents\BlobbyVolleyball\window.cpp(9,49): warning C4244:             T=unsigned int
+C:\Users\PC\Documents\BlobbyVolleyball\window.cpp(9,49): warning C4244:         ]
+C:\Users\PC\Documents\BlobbyVolleyball\window.cpp(9,33): warning C4244: "argument": konwersja z "float" do "T", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\window.cpp(9,33): warning C4244:         with
+C:\Users\PC\Documents\BlobbyVolleyball\window.cpp(9,33): warning C4244:         [
+C:\Users\PC\Documents\BlobbyVolleyball\window.cpp(9,33): warning C4244:             T=unsigned int
+C:\Users\PC\Documents\BlobbyVolleyball\window.cpp(9,33): warning C4244:         ]
+C:\Users\PC\Documents\BlobbyVolleyball\wall.h(8,26): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\PC\Documents\BlobbyVolleyball\body.cpp(7,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\body.cpp(7,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(13,73): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(38,70): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(38,70): warning C4244:         with
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(38,70): warning C4244:         [
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(38,70): warning C4244:             T=unsigned int
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(38,70): warning C4244:         ]
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(38,41): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(38,41): warning C4244:         with
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(38,41): warning C4244:         [
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(38,41): warning C4244:             T=unsigned int
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(38,41): warning C4244:         ]
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(39,73): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(39,73): warning C4244:         with
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(39,73): warning C4244:         [
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(39,73): warning C4244:             T=unsigned int
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(39,73): warning C4244:         ]
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(39,44): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(39,44): warning C4244:         with
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(39,44): warning C4244:         [
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(39,44): warning C4244:             T=unsigned int
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(39,44): warning C4244:         ]
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(40,73): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(40,73): warning C4244:         with
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(40,73): warning C4244:         [
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(40,73): warning C4244:             T=unsigned int
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(40,73): warning C4244:         ]
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(40,44): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(40,44): warning C4244:         with
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(40,44): warning C4244:         [
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(40,44): warning C4244:             T=unsigned int
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(40,44): warning C4244:         ]
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(44,76): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(44,36): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(46,103): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(46,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(46,33): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(48,99): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(48,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(48,33): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(50,75): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(50,33): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(53,125): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(53,65): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(54,129): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(54,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(65,126): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(65,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(69,31): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(70,26): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\PC\Documents\BlobbyVolleyball\BlobbyVolleyball.cpp(86,29): warning C4305: "argument": obcięcie z "double" do "float"
+  BlobbyVolleyball.vcxproj -> C:\Users\PC\Documents\BlobbyVolleyball\x64\Debug\BlobbyVolleyball.exe
